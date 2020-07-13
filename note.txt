@@ -1,0 +1,1 @@
+đặt thẻ js ở phần body sẽ tốt hơn, trong head nó sẽ không chạy trong DOM
